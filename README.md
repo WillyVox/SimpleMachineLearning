@@ -64,3 +64,11 @@
         
         Press any key to exit...
         This console application now contains a fully functional, simple machine learning project using ML.NET for linear regression, built from scratch!
+
+#### ML Tutorial
+    https://dotnet.microsoft.com/en-us/apps/ai/ml-dotnet
+
+    https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/
+
+    Github
+        https://github.com/dotnet/machinelearning-samples/tree/main/samples/csharp/getting-started/Regression_TaxiFarePrediction?WT.mc_id=dotnet-35129-website
