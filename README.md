@@ -20,6 +20,9 @@
         $ dotnet add package Microsoft.Extensions.Logging
         $ dotnet add package Microsoft.Extensions.Logging.Console
 
+        4. Add StandardTrainers package
+        $ dotnet add package Microsoft.ML.StandardTrainers
+
     3. Step 3: Replace Program.cs Content
 
         1. Open the Project:
